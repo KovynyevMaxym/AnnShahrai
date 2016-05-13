@@ -18,9 +18,10 @@ div#central {
 }*/
 img {
     margin:10px 0px;
-    padding:5px;
+    padding:0px;
     width:400px;
     height:auto;
+    border: 5px solid pink;
 }
 p,h1 {
     text-align: center;
@@ -29,5 +30,5 @@ div {
     width: 60%;
     height: auto;
     margin:20%;
-    border: 5px solid orange;
+    border: 5px solid cyan;
 }
